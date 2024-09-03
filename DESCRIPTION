@@ -1,0 +1,32 @@
+Package: SCSDash
+Title: Shuswap Cardiac Society
+Version: 0.0.0.9000
+Author: lboulet
+Description: Dashboard
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dashboardthemes,
+    data.table,
+    devtools,
+    dplyr,
+    ggplot2,
+    golem,
+    googledrive,
+    googlesheets4,
+    highcharter,
+    janitor,
+    lubridate,
+    pins,
+    pkgload,
+    plotly,
+    shiny,
+    shinycssloaders,
+    shinydashboard,
+    shinydashboardPlus,
+    shinyjs,
+    shinyWidgets,
+    stringr,
+    tidyr
+RoxygenNote: 7.2.3
+Authors@R: person('Lindsey', 'Boulet', email = 'lindseyboulet@gmail.com', role = c('cre', 'aut'))
